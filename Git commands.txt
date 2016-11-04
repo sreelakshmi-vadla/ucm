@@ -1,0 +1,5 @@
+
+git fetch --all -p   : update local branches status
+
+1. cherry-pick -- Applying a commit from one branch to another branch
+2. Authentication (RSA key) for central repo
